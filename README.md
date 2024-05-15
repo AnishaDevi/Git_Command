@@ -22,4 +22,9 @@ add==>adds new or changed files in your working directory to the Git staging are
 <b>git add .</b>(to add all changed files)
 <br><br>
 commit==>is is the record of change
+<br>
 <b>git commit -m "some message"<b>
+<br><br>
+push==>upload local repo content to remote repo
+<br>
+<b>git push origin main<b>
