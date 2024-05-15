@@ -10,9 +10,13 @@ Practicing Git commands Here.
 <b>git status </b>
 <br>
 ==><b>4 types of result</b>
+<br>
 ==><b><i>untracked</i></b>->new files that git doesn't know
+<br>
 ==><b><i>modified-></i></b>changed
+<br>
 ==><b><i>staged</i></b>->file is ready to be committed(only we have added not committed)
+<br>
 ==><b><i>unmodified</i></b>->unchanged(committed)
 <br><br>
 add==>adds new or changed files in your working directory to the Git staging area.
