@@ -32,3 +32,39 @@ commit==>is is the record of change
 push==>upload local repo content to remote repo
 <br>
 <b>git push origin main<b>
+
+<br><br>
+INIT COMMAND
+<br><br>
+<b>init<b> - used to create a new repo
+<br><br>
+<b>git init<b>
+<br>
+<b>git remote add origin <-link-><b>
+<br>
+<b>git remote -v<b> ==> to verify remote
+<br>
+<b>git branch<b> ==> to check branch
+<br>
+<b>git branch -M main</b> ==> (to rename branch)
+<br>
+<b>git push origin main<b>
+<br>
+<b>git push -u  origin main<b> ==> -u means we are setting up upstream which tells that each time we push to main branch only .Every time no need to give origin main thereafter.
+<br><br>
+Workflow
+<br>
+Create repo in Github -> clone it to local system -> change -> add ->commit 
+<br><br>
+<b>Git Branch</b>
+<br>
+<b>git branch </b> (to check branch)
+<br>
+<b>git branch -M main</b> (to rename branch)
+<br>
+<b>git checkout <-branch name-></b>  (to navigate)
+<br>
+<b>git checkout -b <-new branch name-></b> (to create new branch)
+<br>
+<b>git branch -d <-branch name-></b> (to delete branch)
+<br>
