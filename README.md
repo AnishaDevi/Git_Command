@@ -68,3 +68,17 @@ Create repo in Github -> clone it to local system -> change -> add ->commit
 <br>
 <b>git branch -d <-branch name-></b> (to delete branch)
 <br>
+
+<br><br>
+<b>MERGING CODE<b>
+<br>
+<u>Way1</u>
+<br>
+<b>git diff <-branch name-> </b> (to compare commits,branches,files & more)
+<br>
+<b>git merge<-branch name-></b> (to merge 2 branches)
+
+<br>
+<u>Way2<u>
+<br>
+Create PR (Pull request)-->it tells others about changes you've pushed to a branch in a repository on GitHub.
